@@ -1,2 +1,2 @@
 # DateMaster-public
- Secret free app for tracking expiration dates.
+ Secret-free app for tracking expiration dates.
